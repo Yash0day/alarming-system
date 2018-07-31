@@ -1,0 +1,1 @@
+The main objective of this project is to help people to monitor the garbage pits and inform the current status about the level of the garbage inside the pit. 
