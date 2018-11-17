@@ -3,9 +3,9 @@ from email.mime.text import MIMEText
 import datetime
 
 def send_mail():
-    to = '15ucc043@lnmiit.ac.in'
-    from_email = 'behungrybefoolish007@gmail.com'
-    from_email_pass = 'Rproject'
+    to = 'xxyyyzzz@gmail.com'
+    from_email = 'email_id_is@gmail.com'
+    from_email_pass = '*******'
     smtpserver = smtplib.SMTP('smtp.gmail.com',587)
     smtpserver.ehlo()
     smtpserver.starttls()
